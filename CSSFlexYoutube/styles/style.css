@@ -29,7 +29,9 @@
 }
 .ytv__right {
    display: flex;
+   flex-wrap: wrap;
    gap: 1em;
+   margin-left: auto;
 }
 .profile {
    display: flex;
